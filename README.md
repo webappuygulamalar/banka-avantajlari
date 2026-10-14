@@ -3,4 +3,4 @@
 Bu depo yalnız derlenmiş statik site dosyalarını içerir ve otomatik olarak güncellenir.
 Kaynak kod ayrı, özel bir depodadır. Yayın adresi: https://webappuygulamalar.github.io/banka-avantajlari/
 
-Yayımlanan kaynak commit: 93e210dda17e6c94ec09ef37bc9619d40643c2c7
+Yayımlanan kaynak commit: b03cc9091435c723bbb55d4b7330dff81350a100
