@@ -1,7 +1,7 @@
 {
   "name": "Banka Avantajları",
   "short_name": "Banka Avantajları",
-  "description": "Birikim tutarınıza göre bankaların yayımlanmış program eşiklerini ve ayrıcalıklarını resmi kaynak alıntılarıyla karşılaştırın.",
+  "description": "Birikim tutarınıza göre bankaların yayımlanmış program eşiklerini ve ayrıcalıklarını karşılaştırın; koşulları ilgili bankanın resmî sayfasından inceleyin.",
   "lang": "tr",
   "dir": "ltr",
   "start_url": "./",
